@@ -690,4 +690,7 @@ require 'function.php';
         <script src="https://cdn.datatables.net/1.10.20/js/dataTables.bootstrap4.min.js" crossorigin="anonymous"></script>
         <script src="assets/demo/datatables-demo.js"></script>
     </body>
+
 </html>
+<!-- git config --global user.email "you@example.com"
+  git config --global user.name "Your Name" -->
